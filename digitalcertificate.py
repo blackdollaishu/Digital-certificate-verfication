@@ -14,7 +14,7 @@ cursor = conn.cursor()
 
 root = tk.Tk()
 root.title("Digital Certificate Verification System")
-root.geometry("1000x650")
+root.geometry("1000x750")
 
 
 entries = {}
